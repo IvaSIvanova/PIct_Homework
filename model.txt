@@ -1,0 +1,19 @@
+#Model for adding an item
+#Negative Testing
+
+Item_name: ~blank, и1,иваиваива100, ~иваиваива101, ИВА, И'ва§)), И ва, ~123456, ~ivaiva
+Item_name_eng: ~blank, i1, ivaivaiva100, ivaivaiva101, IVA, I'VA, I va, ~123456, ~ива
+Price: ~blank, ~0.99, ~0.9, 1, 5000, ~5000.01, ~5000.1, abc,50 0, 50€ 
+Unit: бр.(default), л.(custom)
+Quantity:  ~blank, 1, 500, 501, abc,~5 0, ~50$, ~5.2
+Price_for_quantity: lv, euro
+Account: ~123456789123456, 1234567891234567, ~12345678912345678, ~blank,  ~abcdefgjkmlopqrst, ~123456789123456$, ~1234567 89123456
+Item_number: ~blank,1234567890,~12345678910,~abcedefjhi,~abce defjh,~abce$defjh,~12345678 9
+
+
+
+
+
+
+
+
